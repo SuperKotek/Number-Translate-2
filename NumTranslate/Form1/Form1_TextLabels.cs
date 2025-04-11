@@ -5,6 +5,7 @@ namespace NumTranslate
 {
     public partial class Form1 : Form
     {
+        // Изменение 2
         // Изменение
         /// <summary>
         /// Метод для добавления текстовых меток на форму.
